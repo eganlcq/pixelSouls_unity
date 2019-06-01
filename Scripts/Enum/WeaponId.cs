@@ -1,0 +1,25 @@
+﻿
+public enum WeaponId {
+
+	Dagger,
+	Sword,
+	Axe,
+	Hammer,
+	TwoHandedSword,
+	TwoHandedAxe,
+	TwoHandedHammer,
+	CurvedSword,
+	Estoc,
+	Halberd,
+	Katana,
+	Scythe,
+	Cudgel,
+	Spear,
+	Bo,
+	Guandao,
+	Sai,
+	Tonfa,
+	Fork,
+	Pan,
+	None,
+}
